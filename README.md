@@ -57,7 +57,7 @@ The foundation for your game's logic and world.
 
 Tools to build, clean, and animate your 3D assets.
 
-| Tool | License/Cost | Role | Link |
+| Tool | License/Cost | Specialty | Link |
 | :--- | :--- | :--- | :--- |
 | **Blender** | **Open-Source** | Full suite: Modeling, Sculpting, Rigging, Animation, and Rendering. **Includes Sapling Tree Gen Add-on.** | [https://www.blender.org/](https://www.blender.org/) |
 | **Nomad Sculpt** | **Free Tier** (Paid App) | Intuitive, full-featured **mobile 3D sculpting** app (iPad/Android/Desktop). Excellent for organic models. | [https://nomadsculpt.com/](https://nomadsculpt.com/) |
@@ -103,55 +103,55 @@ Dedicated tools for creating realistic surface details and PBR textures.
 
 ## 🗺️ 06. Level Design & World Building
 
-| Tool | License/Cost | Specialty | Reference Book | Link |
-| :--- | :--- | :--- | :--- | :--- |
-| **Tiled Map Editor** | **Open-Source** | The standard tool for creating 2D tile-based maps. | *Architectural Approach to Level Design* | [http://www.mapeditor.org/](http://www.mapeditor.org/) |
-| **LDtk** (Level Design Toolkit) | **Open-Source** | Modern, flexible 2D level editor. | *Game Design Workshop* | [https://ldtk.io/](https://ldtk.io/) |
-| **TrenchBroom** | **Open-Source** | Powerful and modern **3D level editor** for Quake-style geometric maps. | *Architectural Approach to Level Design* | [https://trenchbroom.github.io/](https://trenchbroom.github.io/) |
-| **OGMO Editor** | **Open-Source** | Simple, flexible **2D level editor** supporting both tile and object placement. | *The Art of Game Design* | [https://ogmo-editor-3.github.io/](https://ogmo-editor-3.github.io/) |
-| **World Machine** | **Free Tier** | Procedural generation of large-scale 3D terrain and heightmaps. | *Architectural Approach to Level Design* | [https://www.world-machine.com/](https://www.world-machine.com/) |
+| Tool | License/Cost | Specialty | Link |
+| :--- | :--- | :--- | :--- |
+| **Tiled Map Editor** | **Open-Source** | The standard tool for creating 2D tile-based maps. | [http://www.mapeditor.org/](http://www.mapeditor.org/) |
+| **LDtk** (Level Design Toolkit) | **Open-Source** | Modern, flexible 2D level editor. | [https://ldtk.io/](https://ldtk.io/) |
+| **TrenchBroom** | **Open-Source** | Powerful and modern **3D level editor** for Quake-style geometric maps. | [https://trenchbroom.github.io/](https://trenchbroom.github.io/) |
+| **OGMO Editor** | **Open-Source** | Simple, flexible **2D level editor** supporting both tile and object placement. | [https://ogmo-editor-3.github.io/](https://ogmo-editor-3.github.io/) |
+| **World Machine** | **Free Tier** | Procedural generation of large-scale 3D terrain and heightmaps. | [https://www.world-machine.com/](https://www.world-machine.com/) |
 
 ---
 
 ## 🎧 07. Audio Production & Editing
 
-| Tool | License/Cost | Specialty | Reference Book | Link |
-| :--- | :--- | :--- | :--- | :--- |
-| **Audacity** | **Open-Source** | Go-to tool for recording and editing sound effects and dialogue. | *The Complete Guide to Game Audio* | [https://www.audacityteam.org/](https://www.audacityteam.org/) |
-| **Ardour** | **Open-Source** | Professional, cross-platform **Digital Audio Workstation (DAW)** for recording and mixing. | *A Composer's Guide to Game Music* | [https://ardour.org/](https://ardour.org/) |
-| **LMMS** | **Open-Source** | Digital Audio Workstation (DAW) for composing music and beats. | *Game Sound* | [https://lmms.io/](https://lmms.io/) |
-| **Cakewalk by BandLab** | **Free** | Professional-grade DAW for music composition (Windows-only). | *Theory and Practice of Writing Music for Games* | [https://www.bandlab.com/products/cakewalk](https://www.bandlab.com/products/cakewalk) |
-| **Hydrogen** | **Open-Source** | Advanced software **drum machine** for creating realistic and electronic drum tracks. | *The Complete Guide to Game Audio* | [https://www.hydrogen-music.org/](https://www.hydrogen-music.org/) |
-| **MilkyTracker** | **Open-Source** | A music creation tool emulating the classic **retro tracker** experience (.MOD/.XM files). | *Game Sound* | [https://www.milkytracker.org/](https://www.milkytracker.org/) |
-| **Bespoke Synth** | **Open-Source** | Unique modular synthesis platform for custom **sound design and experimentation**. | *A Composer's Guide to Game Music* | [https://www.bespokesynth.com/](https://www.bespokesynth.com/) |
-| **JFXR** | **Open-Source** | Web-based tool tailored for simple, quick **retro game sound effect generation**. | *Theory and Practice of Writing Music for Games* | [https://jfxr.frozenfractal.com/](https://jfxr.frozenfractal.com/) |
+| Tool | License/Cost | Specialty | Link |
+| :--- | :--- | :--- | :--- |
+| **Audacity** | **Open-Source** | Go-to tool for recording and editing sound effects and dialogue. | [https://www.audacityteam.org/](https://www.audacityteam.org/) |
+| **Ardour** | **Open-Source** | Professional, cross-platform **Digital Audio Workstation (DAW)** for recording and mixing. | [https://ardour.org/](https://ardour.org/) |
+| **LMMS** | **Open-Source** | Digital Audio Workstation (DAW) for composing music and beats. | [https://lmms.io/](https://lmms.io/) |
+| **Cakewalk by BandLab** | **Free** | Professional-grade DAW for music composition (Windows-only). | [https://www.bandlab.com/products/cakewalk](https://www.bandlab.com/products/cakewalk) |
+| **Hydrogen** | **Open-Source** | Advanced software **drum machine** for creating realistic and electronic drum tracks. | [https://www.hydrogen-music.org/](https://www.hydrogen-music.org/) |
+| **MilkyTracker** | **Open-Source** | A music creation tool emulating the classic **retro tracker** experience (.MOD/.XM files). | [https://www.milkytracker.org/](https://www.milkytracker.org/) |
+| **Bespoke Synth** | **Open-Source** | Unique modular synthesis platform for custom **sound design and experimentation**. | [https://www.bespokesynth.com/](https://www.bespokesynth.com/) |
+| **JFXR** | **Open-Source** | Web-based tool tailored for simple, quick **retro game sound effect generation**. | [https://jfxr.frozenfractal.com/](https://jfxr.frozenfractal.com/) |
 
 ---
 
 ## ✍️ 08. Project Management & Narrative
 
-| Tool | License/Cost | Specialty | Reference Book | Link |
-| :--- | :--- | :--- | :--- | :--- |
-| **Notion** | **Free Tier** | All-in-one workspace for GDDs (Game Design Documents), wikis, and task tracking. | *The Game Narrative Toolbox* | [https://www.notion.so/](https://www.notion.so/) |
-| **Obsidian** | **Free Tier** | Powerful **knowledge base** and note-taking tool, ideal for complex, linked GDDs and **lore documentation**. | *The Game Narrative Toolbox* | [https://obsidian.md/](https://obsidian.md/) |
-| **Twine** | **Open-Source** | Tool for creating, visualizing, and prototyping **non-linear, branching narratives**. | *Video Game Storytelling* | [https://twinery.org/](https://twinery.org/) |
-| **HacknPlan** | **Free Tier** | Project management tool specifically designed for the game development workflow. | *Game Design Workshop* | [https://hacknplan.com/](https://hacknplan.com/) |
-| **Trello** | **Free Tier** | Simple, visual Kanban boards for task management. | *Game Mechanics* | [https://trello.com/](https://trello.com/) |
-| **Ren'Py** | **Open-Source** | Engine focused on creating visual novel narratives. | *A Theory of Fun for Game Design* | [https://www.renpy.org/](https://www.renpy.org/) |
+| Tool | License/Cost | Specialty | Link |
+| :--- | :--- | :--- | :--- |
+| **Notion** | **Free Tier** | All-in-one workspace for GDDs (Game Design Documents), wikis, and task tracking. | [https://www.notion.so/](https://www.notion.so/) |
+| **Obsidian** | **Free Tier** | Powerful **knowledge base** and note-taking tool, ideal for complex, linked GDDs and **lore documentation**. | [https://obsidian.md/](https://obsidian.md/) |
+| **Twine** | **Open-Source** | Tool for creating, visualizing, and prototyping **non-linear, branching narratives**. | [https://twinery.org/](https://twinery.org/) |
+| **HacknPlan** | **Free Tier** | Project management tool specifically designed for the game development workflow. | [https://hacknplan.com/](https://hacknplan.com/) |
+| **Trello** | **Free Tier** | Simple, visual Kanban boards for task management. | [https://trello.com/](https://trello.com/) |
+| **Ren'Py** | **Open-Source** | Engine focused on creating visual novel narratives. | [https://www.renpy.org/](https://www.renpy.org/) |
 
 ---
 
 ## 🛠️ 09. Utilities, Version Control & Media
 
-| Tool | License/Cost | Specialty | Reference Book | Link |
-| :--- | :--- | :--- | :--- | :--- |
-| **Git** | **Open-Source** | **Essential** distributed version control system. | *Pro Git* | [https://git-scm.com/](https://git-scm.com/) |
-| **readme.so** | **Free** | Online editor for easily **creating and structuring professional README.md** files using pre-made sections. | *The Art of Game Design* | [https://readme.so/editor](https://readme.so/editor) |
-| **FFmpeg** | **Open-Source** | Command-line utility for **transcoding, converting, and filtering** virtually all media formats (video, audio, images). | *Pro Git* | [https://ffmpeg.org/](https://ffmpeg.org/) |
-| **DaVinci Resolve** | **Free Tier** | Industry-standard video editor, color grader, and VFX suite. | *Game Engine Architecture* | [https://www.blackmagicdesign.com/products/davinciresolve/](https://www.blackmagicdesign.com/products/davinciresolve/) |
-| **OBS Studio** | **Open-Source** | Professional screen recording and live streaming (great for devlogs and trailers). | *Pro Git* | [https://obsproject.com/](https://obsproject.com/) |
-| **FontForge** | **Open-Source** | Advanced editor for creating and modifying custom fonts. | *Interaction of Color* | [https://fontforge.org/](https://fontforge.org/) |
-| **Colour Contrast Analyser (CCA)** | **Free** | Desktop app for checking UI/text color contrast against **WCAG accessibility standards**. | *The Art of Game Design* | [https://www.tpgi.com/color-contrast-checker/](https://www.tpgi.com/color-contrast-checker/) |
+| Tool | License/Cost | Specialty | Link |
+| :--- | :--- | :--- | :--- |
+| **Git** | **Open-Source** | **Essential** distributed version control system. | [https://git-scm.com/](https://git-scm.com/) |
+| **readme.so** | **Free** | Online editor for easily **creating and structuring professional README.md** files using pre-made sections. | [https://readme.so/editor](https://readme.so/editor) |
+| **FFmpeg** | **Open-Source** | Command-line utility for **transcoding, converting, and filtering** virtually all media formats (video, audio, images). | [https://ffmpeg.org/](https://ffmpeg.org/) |
+| **DaVinci Resolve** | **Free Tier** | Industry-standard video editor, color grader, and VFX suite. | [https://www.blackmagicdesign.com/products/davinciresolve/](https://www.blackmagicdesign.com/products/davinciresolve/) |
+| **OBS Studio** | **Open-Source** | Professional screen recording and live streaming (great for devlogs and trailers). | [https://obsproject.com/](https://obsproject.com/) |
+| **FontForge** | **Open-Source** | Advanced editor for creating and modifying custom fonts. | [https://fontforge.org/](https://fontforge.org/) |
+| **Colour Contrast Analyser (CCA)** | **Free** | Desktop app for checking UI/text color contrast against **WCAG accessibility standards**. | [https://www.tpgi.com/color-contrast-checker/](https://www.tpgi.com/color-contrast-checker/) |
 
 ---
 
@@ -159,12 +159,12 @@ Dedicated tools for creating realistic surface details and PBR textures.
 
 Frameworks for training intelligent agents, NPCs, and generating content.
 
-| Tool | License/Cost | Specialty | Reference Book | Link |
-| :--- | :--- | :--- | :--- | :--- |
-| **Unity ML-Agents Toolkit** | **Open-Source** | Unity plugin for training **intelligent agents** (NPCs) using reinforcement learning. | *Game Engine Architecture* | [https://github.com/Unity-Technologies/ml-agents](https://github.com/Unity-Technologies/ml-agents) |
-| **TensorFlow** | **Open-Source** | Google's leading framework for general-purpose ML, often used for advanced PCG. | *Introduction to Algorithms* | [https://www.tensorflow.org/](https://www.tensorflow.org/) |
-| **PyTorch** | **Open-Source** | Popular framework for flexible deep learning, often used in research. | *Introduction to Algorithms* | [https://pytorch.org/](https://pytorch.org/) |
-| **GitHub Copilot** | **Free Tier** | AI pair programmer for real-time code suggestions (Free for verified students/OS maintainers). | *C++ Primer* | [https://github.com/features/copilot/plans](https://github.com/features/copilot/plans) |
+| Tool | License/Cost | Specialty | Link |
+| :--- | :--- | :--- | :--- |
+| **Unity ML-Agents Toolkit** | **Open-Source** | Unity plugin for training **intelligent agents** (NPCs) using reinforcement learning. | [https://github.com/Unity-Technologies/ml-agents](https://github.com/Unity-Technologies/ml-agents) |
+| **TensorFlow** | **Open-Source** | Google's leading framework for general-purpose ML, often used for advanced PCG. | [https://www.tensorflow.org/](https://www.tensorflow.org/) |
+| **PyTorch** | **Open-Source** | Popular framework for flexible deep learning, often used in research. | [https://pytorch.org/](https://pytorch.org/) |
+| **GitHub Copilot** | **Free Tier** | AI pair programmer for real-time code suggestions (Free for verified students/OS maintainers). | [https://github.com/features/copilot/plans](https://github.com/features/copilot/plans) |
 
 ---
 
@@ -172,44 +172,44 @@ Frameworks for training intelligent agents, NPCs, and generating content.
 
 Dedicated, high-performance engines and libraries for complex simulation.
 
-| Tool | License/Cost | Specialty | Reference Book | Link |
-| :--- | :--- | :--- | :--- | :--- |
-| **NVIDIA PhysX SDK** | **Open-Source** | Widely-used, scalable, real-time physics engine, including modules for **fracture and destruction**. | *Real-Time Collision Detection* | [https://developer.nvidia.com/physx-sdk](https://developer.nvidia.com/physx-sdk) |
-| **Bullet Physics Library** | **Open-Source** | High-performance library for collision detection, rigid body, and **soft body dynamics**. | *3D Math Primer* | [https://pybullet.org/](https://pybullet.org/) |
-| **Project Chrono** | **Open-Source** | Multi-physics simulation infrastructure, good for complex vehicle/terrain interactions. | *Game Feel* | [https://projectchrono.org/](https://projectchrono.org/) |
+| Tool | License/Cost | Specialty | Link |
+| :--- | :--- | :--- | :--- |
+| **NVIDIA PhysX SDK** | **Open-Source** | Widely-used, scalable, real-time physics engine, including modules for **fracture and destruction**. | [https://developer.nvidia.com/physx-sdk](https://developer.nvidia.com/physx-sdk) |
+| **Bullet Physics Library** | **Open-Source** | High-performance library for collision detection, rigid body, and **soft body dynamics**. | [https://pybullet.org/](https://pybullet.org/) |
+| **Project Chrono** | **Open-Source** | Multi-physics simulation infrastructure, good for complex vehicle/terrain interactions. | [https://projectchrono.org/](https://projectchrono.org/) |
 
 ---
 
 ## 🔗 12. Network & Multiplayer Tools
 
-| Tool | License/Cost | Specialty | Reference Book | Link |
-| :--- | :--- | :--- | :--- | :--- |
-| **Nakama** | **Open-Source** (Apache 2.0) | **Backend Server** for social, competitive, and multiplayer games (User authentication, leaderboards, real-time sync). | *Game Programming Patterns* | [https://heroiclabs.com/nakama/](https://heroiclabs.com/nakama/) |
-| **Hazel** | **Open-Source** (MIT) | A simple, cross-platform **networking library** for client/server and peer-to-peer connections in C++. | *C++ Primer* | [https://github.com/TheCherno/Hazel](https://github.com/TheCherno/Hazel) |
-| **FishNet** | **Open-Source** (MIT) | **High-performance networking solution** for Unity (though the principle applies universally), focusing on optimized prediction and synchronization. | *Game Engine Architecture* | [https://fish-networking.com/](https://fish-networking.com/) |
-| **Mirror** | **Open-Source** (MIT) | **Network stack** popular with Unity users, providing high-level API for multiplayer game development. | *Game Programming Patterns* | [https://mirror-networking.com/](https://mirror-networking.com/) |
+| Tool | License/Cost | Specialty | Link |
+| :--- | :--- | :--- | :--- |
+| **Nakama** | **Open-Source** (Apache 2.0) | **Backend Server** for social, competitive, and multiplayer games (User authentication, leaderboards, real-time sync). | [https://heroiclabs.com/nakama/](https://heroiclabs.com/nakama/) |
+| **Hazel** | **Open-Source** (MIT) | A simple, cross-platform **networking library** for client/server and peer-to-peer connections in C++. | [https://github.com/TheCherno/Hazel](https://github.com/TheCherno/Hazel) |
+| **FishNet** | **Open-Source** (MIT) | **High-performance networking solution** for Unity (though the principle applies universally), focusing on optimized prediction and synchronization. | [https://fish-networking.com/](https://fish-networking.com/) |
+| **Mirror** | **Open-Source** (MIT) | **Network stack** popular with Unity users, providing high-level API for multiplayer game development. | [https://mirror-networking.com/](https://mirror-networking.com/) |
 
 ---
 
 ## 🛠️ 13. Testing, Debugging & Optimization
 
-| Tool | License/Cost | Specialty | Reference Book | Link |
-| :--- | :--- | :--- | :--- | :--- |
-| **Valgrind** | **Open-Source** (GPL) | **Memory debugging, leak detection, and profiling** tool for C/C++ applications (critical for engine/framework devs). | *Introduction to Algorithms* | [https://valgrind.org/](https://valgrind.org/) |
-| **gprof** | **Open-Source** (GPL) | Classic **profiler** tool for analyzing the performance and runtime of C/C++ programs. | *Game Engine Architecture* | [https://sourceware.org/binutils/docs/gprof/](https://sourceware.org/binutils/docs/gprof/) |
-| **Sentry** | **Free Tier** | **Real-time crash reporting** and error monitoring for identifying bugs in live games across multiple platforms. | *Game Mechanics* | [https://sentry.io/](https://sentry.io/) |
-| **RenderDoc** | **Open-Source** (MIT) | **Graphics debugger** specifically for monitoring and analyzing the graphics pipeline (DirectX, Vulkan, OpenGL). | *Real-Time Collision Detection* | [https://renderdoc.org/](https://renderdoc.org/) |
+| Tool | License/Cost | Specialty | Link |
+| :--- | :--- | :--- | :--- |
+| **Valgrind** | **Open-Source** (GPL) | **Memory debugging, leak detection, and profiling** tool for C/C++ applications (critical for engine/framework devs). | [https://valgrind.org/](https://valgrind.org/) |
+| **gprof** | **Open-Source** (GPL) | Classic **profiler** tool for analyzing the performance and runtime of C/C++ programs. | [https://sourceware.org/binutils/docs/gprof/](https://sourceware.org/binutils/docs/gprof/) |
+| **Sentry** | **Free Tier** | **Real-time crash reporting** and error monitoring for identifying bugs in live games across multiple platforms. | [https://sentry.io/](https://sentry.io/) |
+| **RenderDoc** | **Open-Source** (MIT) | **Graphics debugger** specifically for monitoring and analyzing the graphics pipeline (DirectX, Vulkan, OpenGL). | [https://renderdoc.org/](https://renderdoc.org/) |
 
 ---
 
 ## 📐 14. Diagramming & Pre-Visualization
 
-| Tool | License/Cost | Specialty | Reference Book | Link |
-| :--- | :--- | :--- | :--- | :--- |
-| **Draw.io / Diagrams.net** | **Open-Source** (Apache 2.0) | Web-based tool for creating **flowcharts, GDD diagrams, and technical schematics** (storyboards). | *Game Design Workshop* | [https://www.diagrams.net/](https://www.diagrams.net/) |
-| **Krita** (Storyboarding features) | **Open-Source** | Features a dedicated **storyboard manager** for comics and animated shorts. | *The Art of Game Design* | [https://krita.org/](https://krita.org/) |
-| **Blender Grease Pencil** | **Open-Source** | Tool for **2D drafting and storyboarding** directly in the 3D scene. | *Architectural Approach to Level Design* | [https://www.blender.org/](https://www.blender.org/) |
-| **Piskel** | **Open-Source** | Web-based tool for creating quick pixel art and sprites for **visual prototyping**. | *Rules of Play* | [https://www.piskelapp.com/](https://www.piskelapp.com/) |
+| Tool | License/Cost | Specialty | Link |
+| :--- | :--- | :--- | :--- |
+| **Draw.io / Diagrams.net** | **Open-Source** (Apache 2.0) | Web-based tool for creating **flowcharts, GDD diagrams, and technical schematics** (storyboards). | [https://www.diagrams.net/](https://www.diagrams.net/) |
+| **Krita** (Storyboarding features) | **Open-Source** | Features a dedicated **storyboard manager** for comics and animated shorts. | [https://krita.org/](https://krita.org/) |
+| **Blender Grease Pencil** | **Open-Source** | Tool for **2D drafting and storyboarding** directly in the 3D scene. | [https://www.blender.org/](https://www.blender.org/) |
+| **Piskel** | **Open-Source** | Web-based tool for creating quick pixel art and sprites for **visual prototyping**. | [https://www.piskelapp.com/](https://www.piskelapp.com/) |
 
 ---
 
@@ -217,24 +217,24 @@ Dedicated, high-performance engines and libraries for complex simulation.
 
 Web-based tools leveraging color theory and AI to generate complementary, harmonious, and accessible color schemes for art and UI.
 
-| Tool | License/Cost | Specialty | Reference Book | Link |
-| :--- | :--- | :--- | :--- | :--- |
-| **Adobe Color** | **Free** | Generates palettes based on **color wheel harmony rules** (analogous, triadic, complementary). | *Color and Light* | [https://color.adobe.com/create/color-wheel](https://color.adobe.com/create/color-wheel) |
-| **Coolors** | **Free Tier** | **Super-fast palette generator** (hit spacebar to randomize), great for quick inspiration and accessibility checks. | *Interaction of Color* | [https://coolors.co/](https://coolors.co/) |
-| **Colormind** | **Free** | **AI-powered generator** that learns color styles from popular art, photography, or movies. | *Interaction of Color* | [http://colormind.io/](http://colormind.io/) |
-| **Paletton** | **Free** | Advanced, classic color wheel tool for designing **complex, multi-harmony palettes** with fine control. | *Color and Light* | [https://paletton.com/](https://paletton.com/) |
+| Tool | License/Cost | Specialty | Link |
+| :--- | :--- | :--- | :--- |
+| **Adobe Color** | **Free** | Generates palettes based on **color wheel harmony rules** (analogous, triadic, complementary). | [https://color.adobe.com/create/color-wheel](https://color.adobe.com/create/color-wheel) |
+| **Coolors** | **Free Tier** | **Super-fast palette generator** (hit spacebar to randomize), great for quick inspiration and accessibility checks. | [https://coolors.co/](https://coolors.co/) |
+| **Colormind** | **Free** | **AI-powered generator** that learns color styles from popular art, photography, or movies. | [http://colormind.io/](http://colormind.io/) |
+| **Paletton** | **Free** | Advanced, classic color wheel tool for designing **complex, multi-harmony palettes** with fine control. | [https://paletton.com/](https://paletton.com/) |
 
 ---
 
 ## 🌟 16. Visual Effects (VFX) & Motion Graphics
 
-| Tool | License/Cost | Specialty | Reference Book | Link |
-| :--- | :--- | :--- | :--- | :--- |
-| **Natron** | **Open-Source** | Professional, node-based **compositing and digital VFX** tool (similar to Nuke). | *The Game VFX Pipeline* | [https://natrongithub.github.io/](https://natrongithub.github.io/) |
-| **Blender Geometry Nodes** | **Open-Source** | Powerful procedural VFX, environment, and particle creation (part of Blender's toolset). | *3D Math Primer* | [https://www.blender.org/](https://www.blender.org/) |
-| **Ghidra** | **Open-Source** (GPL) | High-end 3D **fluid and particle simulation** software. | *The Game VFX Pipeline* | [https://ghidrasim.org/](https://ghidrasim.org/) |
-| **OpenVDB** | **Open-Source** (MPL 2.0) | High-performance library and format for **volumetric data** (smoke, clouds, liquids). | *Game Engine Architecture* | [https://www.openvdb.org/](https://www.openvdb.org/) |
-| **Houdini Apprentice** | **Free Tier** | Free learning version of the industry-standard procedural VFX tool. Great for advanced **procedural modeling (trees)** and destruction. | *Real-Time Rendering* | [https://www.sidefx.com/products/houdini-apprentice/](https://www.sidefx.com/products/houdini-apprentice/) |
+| Tool | License/Cost | Specialty | Link |
+| :--- | :--- | :--- | :--- |
+| **Natron** | **Open-Source** | Professional, node-based **compositing and digital VFX** tool (similar to Nuke). | [https://natrongithub.github.io/](https://natrongithub.github.io/) |
+| **Blender Geometry Nodes** | **Open-Source** | Powerful procedural VFX, environment, and particle creation (part of Blender's toolset). | [https://www.blender.org/](https://www.blender.org/) |
+| **Ghidra** | **Open-Source** (GPL) | High-end 3D **fluid and particle simulation** software. | [https://ghidrasim.org/](https://ghidrasim.org/) |
+| **OpenVDB** | **Open-Source** (MPL 2.0) | High-performance library and format for **volumetric data** (smoke, clouds, liquids). | [https://www.openvdb.org/](https://www.openvdb.org/) |
+| **Houdini Apprentice** | **Free Tier** | Free learning version of the industry-standard procedural VFX tool. Great for advanced **procedural modeling (trees)** and destruction. | [https://www.sidefx.com/products/houdini-apprentice/](https://www.sidefx.com/products/houdini-apprentice/) |
 
 ---
 
@@ -242,10 +242,10 @@ Web-based tools leveraging color theory and AI to generate complementary, harmon
 
 These highly specialized tools for realistic nature generation are currently offered by Bentley Systems at no cost for content creation.
 
-| Tool | License/Cost | Specialty | Reference Book | Link |
-| :--- | :--- | :--- | :--- | :--- |
-| **The Plant Factory** | **Free** (Commercial content creation is permitted) | The industry's leading, procedural, node-based tool for generating **custom 3D vegetation** (trees, plants, foliage). | *3D Math Primer* | [https://info.e-onsoftware.com/](https://info.e-onsoftware.com/) |
-| **Vue** | **Free** (Commercial content creation is permitted) | A powerful tool for creating, rendering, and exporting realistic **3D environments, terrain, and atmospheric effects** for use in game engines. | *Architectural Approach to Level Design* | [https://info.e-onsoftware.com/](https://info.e-onsoftware.com/) |
+| Tool | License/Cost | Specialty | Link |
+| :--- | :--- | :--- | :--- |
+| **The Plant Factory** | **Free** (Commercial content creation is permitted) | The industry's leading, procedural, node-based tool for generating **custom 3D vegetation** (trees, plants, foliage). | [https://info.e-onsoftware.com/](https://info.e-onsoftware.com/) |
+| **Vue** | **Free** (Commercial content creation is permitted) | A powerful tool for creating, rendering, and exporting realistic **3D environments, terrain, and atmospheric effects** for use in game engines. | [https://info.e-onsoftware.com/](https://info.e-onsoftware.com/) |
 
 ---
 
@@ -255,12 +255,12 @@ Websites providing high-quality, game-ready 3D models and PBR (Physically Based 
 
 *(Remember to **always check the individual license** for each asset before use!)*
 
-| Resource | Specialty / License Type (Typical) | Reference Book | Link |
-| :--- | :--- | :--- | :--- | :--- |
-| **Poly Haven** | Massive collection of high-quality **3D Models, Textures, and HDRIs** (**CC0 Public Domain**). | *Color and Light* | [https://polyhaven.com/](https://polyhaven.com/) |
-| **ambientCG** | Large library of **free PBR Materials, Textures, and Models** (**CC0 Public Domain**). | *Interaction of Color* | [https://ambientcg.com/](https://ambientcg.com/) |
-| **FreePBR** | Dedicated source for hundreds of **seamless PBR Texture sets** with all map types (Normal, Roughness, etc.). | *Complete Guide to Blender Graphics* | [https://freepbr.com/](https://freepbr.com/) |
-| **Free3D** | Marketplace offering a massive selection of both paid and **free 3D Models** in various formats. | *3D Math Primer* | [https://free3d.com/](https://free3d.com/) |
+| Resource | Specialty / License Type (Typical) | Link |
+| :--- | :--- | :--- | :--- |
+| **Poly Haven** | Massive collection of high-quality **3D Models, Textures, and HDRIs** (**CC0 Public Domain**). | [https://polyhaven.com/](https://polyhaven.com/) |
+| **ambientCG** | Large library of **free PBR Materials, Textures, and Models** (**CC0 Public Domain**). | [https://ambientcg.com/](https://ambientcg.com/) |
+| **FreePBR** | Dedicated source for hundreds of **seamless PBR Texture sets** with all map types (Normal, Roughness, etc.). | [https://freepbr.com/](https://freepbr.com/) |
+| **Free3D** | Marketplace offering a massive selection of both paid and **free 3D Models** in various formats. | [https://free3d.com/](https://free3d.com/) |
 
 ---
 
@@ -270,11 +270,11 @@ Websites providing 2D art, audio, and broad, stylized asset packs.
 
 *(Remember to **always check the individual license** for each asset before use!)*
 
-| Resource | Specialty / License Type (Typical) | Reference Book | Link |
-| :--- | :--- | :--- | :--- | :--- |
-| **Kenney** | Creator of famous free packs with a cohesive, simple style (**2D, 3D, and Audio**). | *Pixel Logic* | [https://kenney.nl/assets](https://kenney.nl/assets) |
-| **OpenGameArt.org** | The largest community repository for all types of **2D Art, Sprites, and Audio**. | *The Complete Guide to Game Audio* | [https://opengameart.org/](https://opengameart.org/) |
-| **Unity Asset Store (Free)** | Curated selection of free official and user-submitted **3D/2D models, scripts, and tools** for the Unity Engine. | *The Art of Game Design* | [https://assetstore.unity.com/3d/free](https://assetstore.unity.com/3d/free) |
+| Resource | Specialty / License Type (Typical) | Link |
+| :--- | :--- | :--- | :--- |
+| **Kenney** | Creator of famous free packs with a cohesive, simple style (**2D, 3D, and Audio**). | [https://kenney.nl/assets](https://kenney.nl/assets) |
+| **OpenGameArt.org** | The largest community repository for all types of **2D Art, Sprites, and Audio**. | [https://opengameart.org/](https://opengameart.org/) |
+| **Unity Asset Store (Free)** | Curated selection of free official and user-submitted **3D/2D models, scripts, and tools** for the Unity Engine. | [https://assetstore.unity.com/3d/free](https://assetstore.unity.com/3d/free) |
 
 ---
 
