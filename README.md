@@ -2,6 +2,13 @@
 
 A curated and comprehensive list of high-quality, free, and open-source software, tools, and asset libraries covering every stage of the game development pipeline—from concept to advanced AI and physics.
 
+**free and open-source software, tools, books, and learning resources** covering every stage of the professional game development pipeline.
+
+## Welcome to the Free Game Dev Toolkit!
+
+This repository serves as a curated starting point for independent and student developers looking to build games using entirely free, open-source, or accessible toolsets. Game development requires a wide array of specialized tools for programming, art, audio, and design.
+
+While commercial, proprietary software often dominates high-end niches (such as advanced procedural terrain and foliage generation, like SpeedTree and Gaea), this list prioritizes **high-quality, free alternatives** and robust open-source projects that can handle the entire production pipeline. We encourage contributions and suggestions to keep this resource up-to-date and comprehensive.
 | License Key | Description |
 | :--- | :--- |
 | **Open-Source** | Code is public, free to use, modify, and distribute (e.g., MIT, GPL, Zlib). |
