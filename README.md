@@ -255,7 +255,7 @@ Websites providing high-quality, game-ready 3D models and PBR (Physically Based 
 
 *(Remember to **always check the individual license** for each asset before use!)*
 
-| Resource | Specialty / License Type (Typical) | Link |
+| Resource | Specialty | Link |
 | :--- | :--- | :--- | :--- |
 | **Poly Haven** | Massive collection of high-quality **3D Models, Textures, and HDRIs** (**CC0 Public Domain**). | [https://polyhaven.com/](https://polyhaven.com/) |
 | **ambientCG** | Large library of **free PBR Materials, Textures, and Models** (**CC0 Public Domain**). | [https://ambientcg.com/](https://ambientcg.com/) |
