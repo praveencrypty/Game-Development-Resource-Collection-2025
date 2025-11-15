@@ -57,15 +57,15 @@ The foundation for your game's logic and world.
 
 Tools to build, clean, and animate your 3D assets.
 
-| Tool | License/Cost | Role | Reference Book | Link |
-| :--- | :--- | :--- | :--- | :--- |
-| **Blender** | **Open-Source** | Full suite: Modeling, Sculpting, Rigging, Animation, and Rendering. **Includes Sapling Tree Gen Add-on.** | *Complete Guide to Blender Graphics* | [https://www.blender.org/](https://www.blender.org/) |
-| **Nomad Sculpt** | **Free Tier** (Paid App) | Intuitive, full-featured **mobile 3D sculpting** app (iPad/Android/Desktop). Excellent for organic models. | *3D Math Primer* | [https://nomadsculpt.com/](https://nomadsculpt.com/) |
-| **RealityScan** | **Free Tier** | **Photogrammetry / 3D Scanning** software to create ultra-realistic 3D models from photos. | *Game Engine Architecture* | [https://www.realityscan.com/](https://www.realityscan.com/) |
-| **Mixamo** (Adobe) | **Free** | Online service for **auto-rigging** and a huge library of **mo-cap animations**. | *Real-Time Collision Detection* | [https://www.mixamo.com/](https://www.mixamo.com/) |
-| **MeshLab** | **Open-Source** | Specialized tool for **cleaning, healing, and converting** large or complex 3D meshes (e.g., scan data). | *3D Math Primer* | [https://www.meshlab.net/](https://www.meshlab.net/) |
-| **Cascadeur** | **Free Tier** | Specialized tool for realistic, **physics-based character animation**. | *Game Feel* | [https://cascadeur.com/](https://cascadeur.com/) |
-| **Daz Studio** | **Free** | Character creation, posing, and scene rendering. | *Complete Guide to Blender Graphics* | [https://www.daz3d.com/](https://www.daz3d.com/) |
+| Tool | License/Cost | Role | Link |
+| :--- | :--- | :--- | :--- |
+| **Blender** | **Open-Source** | Full suite: Modeling, Sculpting, Rigging, Animation, and Rendering. **Includes Sapling Tree Gen Add-on.** | [https://www.blender.org/](https://www.blender.org/) |
+| **Nomad Sculpt** | **Free Tier** (Paid App) | Intuitive, full-featured **mobile 3D sculpting** app (iPad/Android/Desktop). Excellent for organic models. | [https://nomadsculpt.com/](https://nomadsculpt.com/) |
+| **RealityScan** | **Free Tier** | **Photogrammetry / 3D Scanning** software to create ultra-realistic 3D models from photos. | [https://www.realityscan.com/](https://www.realityscan.com/) |
+| **Mixamo** (Adobe) | **Free** | Online service for **auto-rigging** and a huge library of **mo-cap animations**. | [https://www.mixamo.com/](https://www.mixamo.com/) |
+| **MeshLab** | **Open-Source** | Specialized tool for **cleaning, healing, and converting** large or complex 3D meshes (e.g., scan data). | [https://www.meshlab.net/](https://www.meshlab.net/) |
+| **Cascadeur** | **Free Tier** | Specialized tool for realistic, **physics-based character animation**. | [https://cascadeur.com/](https://cascadeur.com/) |
+| **Daz Studio** | **Free** | Character creation, posing, and scene rendering. | [https://www.daz3d.com/](https://www.daz3d.com/) |
 
 ---
 
