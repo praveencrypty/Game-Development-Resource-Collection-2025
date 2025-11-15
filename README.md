@@ -23,9 +23,9 @@ The tools for writing, debugging, and managing your game code.
 
 | Tool | License/Cost | Best For | Link |
 | :--- | :--- | :--- | :--- | 
-| **Visual Studio Code (VS Code)** | **Free / Open-Source** | The industry-leading, lightweight, and highly extensible code editor. | [https://code.visualstudio.com/](https://code.visualstudio.com/) 
-| **Visual Studio Community** | **Free Tier** | A full Integrated Development Environment (IDE) for C# and C++ (standard for Unity/Unreal). | [https://visualstudio.microsoft.com/vs/community/](https://visualstudio.microsoft.com/vs/community/) 
-| **VSCodium** | **Free / Open-Source** | VS Code without Microsoft telemetry. | [https://vscodium.com/](https://vscodium.com/) 
+| **Visual Studio Code (VS Code)** | **Free / Open-Source** | The industry-leading, lightweight, and highly extensible code editor. | [https://code.visualstudio.com/](https://code.visualstudio.com/) |
+| **Visual Studio Community** | **Free Tier** | A full Integrated Development Environment (IDE) for C# and C++ (standard for Unity/Unreal). | [https://visualstudio.microsoft.com/vs/community/](https://visualstudio.microsoft.com/vs/community/) |
+| **VSCodium** | **Free / Open-Source** | VS Code without Microsoft telemetry. | [https://vscodium.com/](https://vscodium.com/) |
 
 ---
 
@@ -73,31 +73,31 @@ Tools to build, clean, and animate your 3D assets.
 
 Dedicated tools for creating realistic surface details and PBR textures.
 
-| Tool | License/Cost | Specialty | Reference Book | Link |
-| :--- | :--- | :--- | :--- | :--- |
-| **Quixel Mixer** | **Free** | Mixing and creating PBR materials using the vast Megascans library. | *Color and Light* | [https://quixel.com/mixer](https://quixel.com/mixer) |
-| **Material Maker** | **Open-Source** | Node-based procedural generation of seamless PBR textures. | *Interaction of Color* | [https://www.materialmaker.org/](https://www.materialmaker.org/) |
-| **TextureLab** | **Open-Source** (LGPLv3) | Procedural texture generation tool with a node-based workflow and **Unity export support**. | *Complete Guide to Blender Graphics* | [https://njbrown.itch.io/texturelab](https://njbrown.itch.io/texturelab) |
-| **Materialize** | **Free / Open-Source** | Generates a full PBR material (Normal, Occlusion, etc.) from a single diffuse image. | *Color and Light* | [http://boundingboxsoftware.com/materialize/](http://boundingboxsoftware.com/materialize/) |
-| **ArmorPaint** | **Open-Source** | Standalone 3D texture painting directly onto your models (similar to Substance Painter). | *Interaction of Color* | [https://armorpaint.org/](https://armorpaint.org/) |
+| Tool | License/Cost | Specialty | Link |
+| :--- | :--- | :--- | :--- |
+| **Quixel Mixer** | **Free** | Mixing and creating PBR materials using the vast Megascans library. | [https://quixel.com/mixer](https://quixel.com/mixer) |
+| **Material Maker** | **Open-Source** | Node-based procedural generation of seamless PBR textures. | [https://www.materialmaker.org/](https://www.materialmaker.org/) |
+| **TextureLab** | **Open-Source** (LGPLv3) | Procedural texture generation tool with a node-based workflow and **Unity export support**. | [https://njbrown.itch.io/texturelab](https://njbrown.itch.io/texturelab) |
+| **Materialize** | **Free / Open-Source** | Generates a full PBR material (Normal, Occlusion, etc.) from a single diffuse image. | [http://boundingboxsoftware.com/materialize/](http://boundingboxsoftware.com/materialize/) |
+| **ArmorPaint** | **Open-Source** | Standalone 3D texture painting directly onto your models (similar to Substance Painter). | [https://armorpaint.org/](https://armorpaint.org/) |
 
 ---
 
 ## 🎨 05. 2D Art, Painting & Pixel Art
 
-| Tool | License/Cost | Specialty | Reference Book | Link |
-| :--- | :--- | :--- | :--- | :--- |
-| **Krita** | **Open-Source** | Professional digital painting, illustration, and **basic raster animation**. | *Color and Light* | [https://krita.org/](https://krita.org/) |
-| **Affinity** (The Unified App) | **Free** | Professional suite combining **Vector, Pixel (Photo), and Layout** tools into one powerful application. | *Interaction of Color* | [https://www.affinity.studio/](https://www.affinity.studio/) |
-| **OpenToonz** | **Open-Source** | Industry-grade 2D animation software (used by Studio Ghibli) with powerful vectorization and coloring tools. | *Pixel Logic* | [https://opentoonz.github.io/](https://opentoonz.github.io/) |
-| **Synfig Studio** | **Open-Source** (GPL) | Powerful 2D animation software specializing in **vector-based tweening, rigging, and cut-out animation**. | *Color and Light* | [https://www.synfig.org/](https://www.synfig.org/) |
-| **Enve** | **Open-Source** | Flexible 2D animation software capable of creating **vector and raster animations** and motion graphics. | *Pixel Logic* | [https://maurycyliebner.github.io/enve/](https://maurycyliebner.github.io/enve/) |
-| **Pencil2D** | **Open-Source** (GPL) | Simple, cross-platform tool focused purely on **traditional hand-drawn, frame-by-frame animation** (raster & vector). | *Color and Light* | [https://www.pencil2d.org/](https://www.pencil2d.org/) |
-| **GIMP** | **Open-Source** | General image editing, manipulation, and raster asset preparation. | *Pixel Logic* | [https://www.gimp.org/](https://www.gimp.org/) |
-| **Inkscape** | **Open-Source** | Creating scalable **vector graphics** for UI and logos. | *Interaction of Color* | [https://inkscape.org/](https://inkscape.org/) |
-| **LibreSprite** | **Open-Source** | Dedicated tool for **pixel art** and sprite animation (a fork of Aseprite). | *Pixel Logic* | [https://libresprite.github.io/](https://libresprite.github.io/) |
-| **Pixelorama** | **Open-Source** | Intuitive, feature-rich, open-source **pixel art and sprite editor**. | *Pixel Logic* | [https://orama-interactive.itch.io/pixelorama](https://orama-interactive.itch.io/pixelorama) |
-| **MagicaVoxel** | **Free** | Dedicated editor for creating **Voxel Art** (3D pixel models). | *3D Math Primer* | [https://ephtracy.github.io/](https://ephtracy.github.io/) |
+| Tool | License/Cost | Specialty | Link |
+| :--- | :--- | :--- | :--- |
+| **Krita** | **Open-Source** | Professional digital painting, illustration, and **basic raster animation**. | [https://krita.org/](https://krita.org/) |
+| **Affinity** (The Unified App) | **Free** | Professional suite combining **Vector, Pixel (Photo), and Layout** tools into one powerful application. | [https://www.affinity.studio/](https://www.affinity.studio/) |
+| **OpenToonz** | **Open-Source** | Industry-grade 2D animation software (used by Studio Ghibli) with powerful vectorization and coloring tools. | [https://opentoonz.github.io/](https://opentoonz.github.io/) |
+| **Synfig Studio** | **Open-Source** (GPL) | Powerful 2D animation software specializing in **vector-based tweening, rigging, and cut-out animation**. | [https://www.synfig.org/](https://www.synfig.org/) |
+| **Enve** | **Open-Source** | Flexible 2D animation software capable of creating **vector and raster animations** and motion graphics. | [https://maurycyliebner.github.io/enve/](https://maurycyliebner.github.io/enve/) |
+| **Pencil2D** | **Open-Source** (GPL) | Simple, cross-platform tool focused purely on **traditional hand-drawn, frame-by-frame animation** (raster & vector). | [https://www.pencil2d.org/](https://www.pencil2d.org/) |
+| **GIMP** | **Open-Source** | General image editing, manipulation, and raster asset preparation. | [https://www.gimp.org/](https://www.gimp.org/) |
+| **Inkscape** | **Open-Source** | Creating scalable **vector graphics** for UI and logos. | [https://inkscape.org/](https://inkscape.org/) |
+| **LibreSprite** | **Open-Source** | Dedicated tool for **pixel art** and sprite animation (a fork of Aseprite). | [https://libresprite.github.io/](https://libresprite.github.io/) |
+| **Pixelorama** | **Open-Source** | Intuitive, feature-rich, open-source **pixel art and sprite editor**. | [https://orama-interactive.itch.io/pixelorama](https://orama-interactive.itch.io/pixelorama) |
+| **MagicaVoxel** | **Free** | Dedicated editor for creating **Voxel Art** (3D pixel models). | [https://ephtracy.github.io/](https://ephtracy.github.io/) |
 
 ---
 
