@@ -256,7 +256,7 @@ Websites providing high-quality, game-ready 3D models and PBR (Physically Based 
 *(Remember to **always check the individual license** for each asset before use!)*
 
 | Resource | Specialty | Link |
-| :--- | :--- | :--- | :--- |
+| :--- | :--- | :--- |
 | **Poly Haven** | Massive collection of high-quality **3D Models, Textures, and HDRIs** (**CC0 Public Domain**). | [https://polyhaven.com/](https://polyhaven.com/) |
 | **ambientCG** | Large library of **free PBR Materials, Textures, and Models** (**CC0 Public Domain**). | [https://ambientcg.com/](https://ambientcg.com/) |
 | **FreePBR** | Dedicated source for hundreds of **seamless PBR Texture sets** with all map types (Normal, Roughness, etc.). | [https://freepbr.com/](https://freepbr.com/) |
@@ -270,8 +270,8 @@ Websites providing 2D art, audio, and broad, stylized asset packs.
 
 *(Remember to **always check the individual license** for each asset before use!)*
 
-| Resource | Specialty / License Type (Typical) | Link |
-| :--- | :--- | :--- | :--- |
+| Resource | Specialty | Link |
+| :--- | :--- | :--- |
 | **Kenney** | Creator of famous free packs with a cohesive, simple style (**2D, 3D, and Audio**). | [https://kenney.nl/assets](https://kenney.nl/assets) |
 | **OpenGameArt.org** | The largest community repository for all types of **2D Art, Sprites, and Audio**. | [https://opengameart.org/](https://opengameart.org/) |
 | **Unity Asset Store (Free)** | Curated selection of free official and user-submitted **3D/2D models, scripts, and tools** for the Unity Engine. | [https://assetstore.unity.com/3d/free](https://assetstore.unity.com/3d/free) |
