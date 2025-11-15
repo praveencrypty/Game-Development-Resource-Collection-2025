@@ -23,9 +23,9 @@ The tools for writing, debugging, and managing your game code.
 
 | Tool | License/Cost | Best For | Link |
 | :--- | :--- | :--- | :--- | 
-| **Visual Studio Code (VS Code)** | **Free / Open-Source** | The industry-leading, lightweight, and highly extensible code editor. | [https://code.visualstudio.com/](https://code.visualstudio.com/) |
-| **Visual Studio Community** | **Free Tier** | A full Integrated Development Environment (IDE) for C# and C++ (standard for Unity/Unreal). | [https://visualstudio.microsoft.com/vs/community/](https://visualstudio.microsoft.com/vs/community/) |
-| **VSCodium** | **Free / Open-Source** | VS Code without Microsoft telemetry. | [https://vscodium.com/]([https://atom.io/](https://vscodium.com/)) |
+| **Visual Studio Code (VS Code)** | **Free / Open-Source** | The industry-leading, lightweight, and highly extensible code editor. | [https://code.visualstudio.com/](https://code.visualstudio.com/) 
+| **Visual Studio Community** | **Free Tier** | A full Integrated Development Environment (IDE) for C# and C++ (standard for Unity/Unreal). | [https://visualstudio.microsoft.com/vs/community/](https://visualstudio.microsoft.com/vs/community/) 
+| **VSCodium** | **Free / Open-Source** | VS Code without Microsoft telemetry. | [https://vscodium.com/](https://vscodium.com/) 
 
 ---
 
