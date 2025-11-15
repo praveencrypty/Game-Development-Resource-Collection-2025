@@ -47,7 +47,7 @@ The foundation for your game's logic and world.
 | **GDevelop** | **Open-Source** | A cross-platform **no-code** game creator, ideal for beginners. | *The Art of Game Design* | [https://gdevelop.io/](https://gdevelop.io/) |
 | **MonoGame** | **Open-Source** | A **C# framework** and XNA successor for creating highly portable 2D/3D games. | *Game Programming Patterns* | [https://www.monogame.net/](https://www.monogame.net/) |
 | **PixiJS** | **Open-Source** | A **fast 2D rendering library** that uses WebGL for hardware acceleration (no built-in physics). | *3D Math Primer* | [https://www.pixijs.com/](https://www.pixijs.com/) |
-| **Cocos2d-x** | **Open-Source** | A powerful C++ game framework for building cross-platform 2D games (mobile/web). | *C++ Primer* | [https://www.cocos.com/](https://www.cocos.com/) |
+| **Cocos2d-x** | **Open-Source** | A powerful C++ game framework for building cross-platform 2D games (mobile/web). | [https://www.cocos.com/](https://www.cocos.com/) |
 | **Eldiron** | **Open-Source** | Specialized **retro CRPG** (e.g., *Ultima*-style) engine with procedural content generation. | *Rules of Play* | [https://eldiron.com/](https://eldiron.com/) |
 | **Phaser** | **Open-Source** | Fast framework for creating HTML5 (web-based) **2D games**. | *Game Feel* | [https://phaser.io/](https://phaser.io/) |
 
