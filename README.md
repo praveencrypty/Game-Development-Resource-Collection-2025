@@ -22,7 +22,7 @@ While commercial, proprietary software often dominates high-end niches (such as 
 The tools for writing, debugging, and managing your game code.
 
 | Tool | License/Cost | Best For | Link |
-| :--- | :--- | :--- | :--- | :--- |
+| :--- | :--- | :--- | :--- | 
 | **Visual Studio Code (VS Code)** | **Free / Open-Source** | The industry-leading, lightweight, and highly extensible code editor. | [https://code.visualstudio.com/](https://code.visualstudio.com/) |
 | **Visual Studio Community** | **Free Tier** | A full Integrated Development Environment (IDE) for C# and C++ (standard for Unity/Unreal). | [https://visualstudio.microsoft.com/vs/community/](https://visualstudio.microsoft.com/vs/community/) |
 | **VSCodium** | **Free / Open-Source** | VS Code without Microsoft telemetry. | [https://vscodium.com/]([https://atom.io/](https://vscodium.com/)) |
@@ -34,7 +34,7 @@ The tools for writing, debugging, and managing your game code.
 The foundation for your game's logic and world.
 
 | Tool | License/Cost | Specialty | Link |
-| :--- | :--- | :--- | :--- | :--- |
+| :--- | :--- | :--- | :--- |
 | **Godot Engine** | **Open-Source** | All-in-one engine for 2D & 3D, known for its simplicity and GDScript/C#. | [https://godotengine.org/](https://godotengine.org/) |
 | **Unreal Engine** | **Free Tier** | AAA-capable, high-fidelity 3D and cinematic tools (Royalty on revenue over $1M). | [https://www.unrealengine.com/](https://www.unrealengine.com/) |
 | **Unity** | **Free Tier** | Versatile 2D & 3D engine, popular for all platforms (Personal/Student editions). | [https://unity.com/](https://unity.com/) |
