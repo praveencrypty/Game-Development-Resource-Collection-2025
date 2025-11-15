@@ -2,7 +2,7 @@
 
 A curated and comprehensive list of high-quality, free, and open-source software, tools, and asset libraries covering every stage of the game development pipeline—from concept to advanced AI and physics.
 
-**free and open-source software, tools, books, and learning resources** covering every stage of the professional game development pipeline.
+**Free and open-source software, tools, books, and learning resources** covering every stage of the professional game development pipeline.
 
 ## Welcome to the Free Game Dev Toolkit!
 
