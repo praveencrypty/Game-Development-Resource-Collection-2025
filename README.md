@@ -21,11 +21,11 @@ While commercial, proprietary software often dominates high-end niches (such as 
 
 The tools for writing, debugging, and managing your game code.
 
-| Tool | License/Cost | Best For | Reference Book | Link |
+| Tool | License/Cost | Best For | Link |
 | :--- | :--- | :--- | :--- | :--- |
-| **Visual Studio Code (VS Code)** | **Free / Open-Source** | The industry-leading, lightweight, and highly extensible code editor. | *C++ Primer* or *C# in Depth* | [https://code.visualstudio.com/](https://code.visualstudio.com/) |
-| **Visual Studio Community** | **Free Tier** | A full Integrated Development Environment (IDE) for C# and C++ (standard for Unity/Unreal). | *Game Programming Patterns* | [https://visualstudio.microsoft.com/vs/community/](https://visualstudio.microsoft.com/vs/community/) |
-| **VSCodium** | **Free / Open-Source** | VS Code without Microsoft telemetry. | *Pro Git* | [https://vscodium.com/]([https://atom.io/](https://vscodium.com/)) |
+| **Visual Studio Code (VS Code)** | **Free / Open-Source** | The industry-leading, lightweight, and highly extensible code editor. | [https://code.visualstudio.com/](https://code.visualstudio.com/) |
+| **Visual Studio Community** | **Free Tier** | A full Integrated Development Environment (IDE) for C# and C++ (standard for Unity/Unreal). | [https://visualstudio.microsoft.com/vs/community/](https://visualstudio.microsoft.com/vs/community/) |
+| **VSCodium** | **Free / Open-Source** | VS Code without Microsoft telemetry. | [https://vscodium.com/]([https://atom.io/](https://vscodium.com/)) |
 
 ---
 
@@ -33,23 +33,23 @@ The tools for writing, debugging, and managing your game code.
 
 The foundation for your game's logic and world.
 
-| Tool | License/Cost | Specialty | Reference Book | Link |
+| Tool | License/Cost | Specialty | Link |
 | :--- | :--- | :--- | :--- | :--- |
-| **Godot Engine** | **Open-Source** | All-in-one engine for 2D & 3D, known for its simplicity and GDScript/C#. | *Game Engine Architecture* | [https://godotengine.org/](https://godotengine.org/) |
-| **Unreal Engine** | **Free Tier** | AAA-capable, high-fidelity 3D and cinematic tools (Royalty on revenue over $1M). | *The Art of Game Design* | [https://www.unrealengine.com/](https://www.unrealengine.com/) |
-| **Unity** | **Free Tier** | Versatile 2D & 3D engine, popular for all platforms (Personal/Student editions). | *Game Feel* | [https://unity.com/](https://unity.com/) |
-| **O3DE** (Open 3D Engine) | **Open-Source** | Modular, AAA-capable 3D engine backed by the Linux Foundation. | *Rules of Play* | [https://o3de.org/](https://o3de.org/) |
-| **Bevy Engine** | **Open-Source** (MIT/Apache 2.0) | A refreshingly simple, **data-driven (ECS) 2D/3D engine** built in **Rust**. | *Game Programming Patterns* | [https://bevy.org/](https://bevy.org/) |
-| **Fyrox** | **Open-Source** (MIT) | Feature-rich 2D/3D game engine, similar to Godot but written in **Rust** with a dedicated editor. | *Game Engine Architecture* | [https://fyrox.rs/](https://fyrox.rs/) |
-| **Pygame** | **Open-Source** (LGPL) | Popular library for creating simple and educational **2D games** using **Python**. | *The Art of Game Design* | [https://www.pygame.org/](https://www.pygame.org/) |
-| **Stride Engine** | **Open-Source** | Powerful **3D engine** offering an editor and scripting in **C# / .NET**. | *C# in Depth* | [https://www.stride3d.net/](https://www.stride3d.net/) |
-| **Armory3D** | **Open-Source** | Game engine deeply **integrated with Blender**, using Haxe for scripting. | *3D Math Primer* | [https://armory3d.org/](https://armory3d.org/) |
-| **GDevelop** | **Open-Source** | A cross-platform **no-code** game creator, ideal for beginners. | *The Art of Game Design* | [https://gdevelop.io/](https://gdevelop.io/) |
-| **MonoGame** | **Open-Source** | A **C# framework** and XNA successor for creating highly portable 2D/3D games. | *Game Programming Patterns* | [https://www.monogame.net/](https://www.monogame.net/) |
-| **PixiJS** | **Open-Source** | A **fast 2D rendering library** that uses WebGL for hardware acceleration (no built-in physics). | *3D Math Primer* | [https://www.pixijs.com/](https://www.pixijs.com/) |
+| **Godot Engine** | **Open-Source** | All-in-one engine for 2D & 3D, known for its simplicity and GDScript/C#. | [https://godotengine.org/](https://godotengine.org/) |
+| **Unreal Engine** | **Free Tier** | AAA-capable, high-fidelity 3D and cinematic tools (Royalty on revenue over $1M). | [https://www.unrealengine.com/](https://www.unrealengine.com/) |
+| **Unity** | **Free Tier** | Versatile 2D & 3D engine, popular for all platforms (Personal/Student editions). | [https://unity.com/](https://unity.com/) |
+| **O3DE** (Open 3D Engine) | **Open-Source** | Modular, AAA-capable 3D engine backed by the Linux Foundation. | [https://o3de.org/](https://o3de.org/) |
+| **Bevy Engine** | **Open-Source** (MIT/Apache 2.0) | A refreshingly simple, **data-driven (ECS) 2D/3D engine** built in **Rust**. | [https://bevy.org/](https://bevy.org/) |
+| **Fyrox** | **Open-Source** (MIT) | Feature-rich 2D/3D game engine, similar to Godot but written in **Rust** with a dedicated editor. | [https://fyrox.rs/](https://fyrox.rs/) |
+| **Pygame** | **Open-Source** (LGPL) | Popular library for creating simple and educational **2D games** using **Python**. | [https://www.pygame.org/](https://www.pygame.org/) |
+| **Stride Engine** | **Open-Source** | Powerful **3D engine** offering an editor and scripting in **C# / .NET**. | [https://www.stride3d.net/](https://www.stride3d.net/) |
+| **Armory3D** | **Open-Source** | Game engine deeply **integrated with Blender**, using Haxe for scripting. | [https://armory3d.org/](https://armory3d.org/) |
+| **GDevelop** | **Open-Source** | A cross-platform **no-code** game creator, ideal for beginners. | [https://gdevelop.io/](https://gdevelop.io/) |
+| **MonoGame** | **Open-Source** | A **C# framework** and XNA successor for creating highly portable 2D/3D games. | [https://www.monogame.net/](https://www.monogame.net/) |
+| **PixiJS** | **Open-Source** | A **fast 2D rendering library** that uses WebGL for hardware acceleration (no built-in physics). | [https://www.pixijs.com/](https://www.pixijs.com/) |
 | **Cocos2d-x** | **Open-Source** | A powerful C++ game framework for building cross-platform 2D games (mobile/web). | [https://www.cocos.com/](https://www.cocos.com/) |
-| **Eldiron** | **Open-Source** | Specialized **retro CRPG** (e.g., *Ultima*-style) engine with procedural content generation. | *Rules of Play* | [https://eldiron.com/](https://eldiron.com/) |
-| **Phaser** | **Open-Source** | Fast framework for creating HTML5 (web-based) **2D games**. | *Game Feel* | [https://phaser.io/](https://phaser.io/) |
+| **Eldiron** | **Open-Source** | Specialized **retro CRPG** (e.g., *Ultima*-style) engine with procedural content generation. | [https://eldiron.com/](https://eldiron.com/) |
+| **Phaser** | **Open-Source** | Fast framework for creating HTML5 (web-based) **2D games**. | [https://phaser.io/](https://phaser.io/) |
 
 ---
 
